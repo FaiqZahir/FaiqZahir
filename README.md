@@ -1,10 +1,10 @@
 <!-- Banner GIF + Typing Effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" alt="wave" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I'm+Faiq+Zahir+Fadillah;Web+Developer+%7C+AI+Enthusiast+%7C+Cryptography+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;I'm+Faiq+Zahir+Fadillah;Web+Developer+%7C+AI+Enthusiast+%7C+Cryptography+Learner" alt="Typing SVG" />
 </p>
 
 ---
