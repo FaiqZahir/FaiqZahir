@@ -1,4 +1,4 @@
-<!-- Opsi 1 – GIF + Typing Effect -->
+<!-- Banner GIF + Typing Effect -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
 </p>
