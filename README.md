@@ -9,20 +9,6 @@
 
 ---
 
-<!-- Opsi 2 – Flat Minimalis -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Faiq+Zahir+Fadillah!;Web+Developer+%7C+Informatics+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-<!-- Opsi 3 – Dark Mode Aesthetic -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=8F00FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+Profile!;Building+the+Web+with+Passion;Exploring+AI+and+Cryptography+🧠" alt="Typing SVG" />
-</p>
-
----
-
 <h1 align="center">Hi there 👋, I'm Faiq Zahir Fadillah</h1>
 <h3 align="center">💻 Informatics Student | Web Developer | Tech Enthusiast</h3>
 
