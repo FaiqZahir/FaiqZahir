@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/faiq-zahir-fadillah-5ab226254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:fadillahfaiq@gmail.com">
+  <a href="mailto:fadillahfaiq@gmail.com?subject=Hello%20Faiq!">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
